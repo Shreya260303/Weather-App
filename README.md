@@ -53,4 +53,4 @@ OpenWeatherMap API – Real-time weather data provider.
 
 RapidAPI / GeoDB API – Location search and place details.
 
-Made with ❤️ by Shreya Jha
+Made by Shreya Jha
