@@ -13,7 +13,7 @@ Search Functionality – Check weather for any city worldwide.
 Responsive Design – Optimized for seamless use on desktop and mobile devices.
 
 **Live Demo**
-🔗 Weather App Live Demo
+🔗 Weather App Live Demo : https://weather-app-lac-tau-57.vercel.app/
 
 **Prerequisites**
 Node.js
