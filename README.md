@@ -46,9 +46,6 @@ npm run deploy
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your suggestions or improvements.
 
-License
-Licensed under the MIT License – see the LICENSE.md file for details.
-
 Acknowledgments
 React – Official documentation.
 
